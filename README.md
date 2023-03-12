@@ -1,6 +1,10 @@
 # LeetCode-Swift
 系统性刷算法题计划
 
+方法论：[论如何 4 个月高效刷满 500 题并形成长期记忆](https://leetcode.cn/circle/discuss/jq9Zke/)
+
+记录表：[Notion记录](https://www.notion.so/3efce3d7b4064fab861950c2cdd9c6d8)
+
 **使用语言**：**swift**优先，当swift答案较少时，可查看 C++ 做题思路，看懂后最好能够使用swift重新写
 
 ## 这轮刷题的阶段目标和基本要求
@@ -26,4 +30,4 @@
 
 [C++ 刷题笔记（重要的是解题思路）](参考教程与资料/Leetcode刷题笔记C++.pdf)
 
-[GO 语言笔记](参考教程与资料/LeetcodeCookbook.pdf)
+[GO 语言笔记](参考教程与资料/LeetcodeCookbook.pdf)   [网站阅读](https://books.halfrost.com/leetcode/ChapterFour/0500~0599/0500.Keyboard-Row/)
