@@ -24,3 +24,6 @@
 
 [部分Swift 的题解](https://github.com/strengthen/LeetCode)
 
+[C++ 刷题笔记（重要的是解题思路）](参考教程与资料/Leetcode刷题笔记C++.pdf)
+
+[GO 语言笔记](参考教程与资料/LeetcodeCookbook.pdf)
