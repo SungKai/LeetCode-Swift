@@ -70,3 +70,39 @@
 
 
 
+## 重要知识点
+
+### 链表表示方法
+
+```swift
+public class ListNode<E> {
+    public var val: E
+    public var next: ListNode?
+    public init(_ val: E) {
+        self.val = val
+        self.next = nil
+    }
+}
+```
+
+
+
+### 虚拟头节点 dummyHead
+
+在进行链表操作时，尤其是删除节点时，经常会因为对当前节点进行操作而导致**内存**或者**指针**出现问题
+
+解决方法：
+
+1. 尽量处理当前节点的下一个节点而不是当前节点本身
+2. 使用虚拟头节点dummyHead，也能够统一操作
+
+
+
+
+
+
+
+
+
+
+
